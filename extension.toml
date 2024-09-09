@@ -1,0 +1,9 @@
+id = "github-monochrome-theme"
+name = "GitHub Light Monochrome Theme"
+version = "0.0.1"
+schema_version = 1
+description = "Monochrome theme based on Github light mode syntax highlighting "
+repository = "https://github.com/Nishantdd/github-monochrome-zed"
+authors = ["Nishant Dahiya <nishant.dahiya2000@gmail.com>"]
+themes = ["themes/github-light-monochrome.json"]
+languages = []
